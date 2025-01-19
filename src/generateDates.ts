@@ -23,7 +23,7 @@ const generateDatesJson = (): void => {
       .map((file) => path.basename(file, ".json"));
 
     // Write the dates array to dates.json
-    fs.writeFileSync(outputFilePath, JSON.stringify(dates, null, 2));
+    fs.writeFileSync(outputFilePath, JSON.stringify({ dates: dates }, null, 2));
 
     console.log(
       `Successfully generated dates.json with ${dates.length} dates.`
