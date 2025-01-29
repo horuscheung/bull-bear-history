@@ -1,0 +1,246 @@
+{
+  "steps": [
+    {
+      "amount": 98.13,
+      "from": 17600,
+      "to": 17699,
+      "type": "bull"
+    },
+    {
+      "amount": 32.9,
+      "from": 17700,
+      "to": 17799,
+      "type": "bull"
+    },
+    {
+      "amount": 33.78,
+      "from": 17800,
+      "to": 17899,
+      "type": "bull"
+    },
+    {
+      "amount": 65.4,
+      "from": 17900,
+      "to": 17999,
+      "type": "bull"
+    },
+    {
+      "amount": 280.52,
+      "from": 18000,
+      "to": 18099,
+      "type": "bull"
+    },
+    {
+      "amount": 78.96,
+      "from": 18100,
+      "to": 18199,
+      "type": "bull"
+    },
+    {
+      "amount": 255.52,
+      "from": 18200,
+      "to": 18299,
+      "type": "bull"
+    },
+    {
+      "amount": 484.14,
+      "from": 18300,
+      "to": 18399,
+      "type": "bull"
+    },
+    {
+      "amount": 343.28,
+      "from": 18400,
+      "to": 18499,
+      "type": "bull"
+    },
+    {
+      "amount": 425.93,
+      "from": 18500,
+      "to": 18599,
+      "type": "bull"
+    },
+    {
+      "amount": 337.84,
+      "from": 18600,
+      "to": 18699,
+      "type": "bull"
+    },
+    {
+      "amount": 27.27,
+      "from": 18700,
+      "to": 18799,
+      "type": "bull"
+    },
+    {
+      "amount": 103.1,
+      "from": 18800,
+      "to": 18899,
+      "type": "bull"
+    },
+    {
+      "amount": 70.04,
+      "from": 18900,
+      "to": 18999,
+      "type": "bull"
+    },
+    {
+      "amount": 159.63,
+      "from": 19000,
+      "to": 19099,
+      "type": "bull"
+    },
+    {
+      "amount": 797.8,
+      "from": 19100,
+      "to": 19199,
+      "type": "bull"
+    },
+    {
+      "amount": 693.54,
+      "from": 19200,
+      "to": 19299,
+      "type": "bull"
+    },
+    {
+      "amount": 8.7,
+      "from": 19300,
+      "to": 19399,
+      "type": "bull"
+    },
+    {
+      "amount": 29.18,
+      "from": 19400,
+      "to": 19499,
+      "type": "bull"
+    },
+    {
+      "amount": 688.84,
+      "from": 19500,
+      "to": 19599,
+      "type": "bull"
+    },
+    {
+      "amount": 461.76,
+      "from": 20200,
+      "to": 20299,
+      "type": "bear"
+    },
+    {
+      "amount": 369.94,
+      "from": 20300,
+      "to": 20399,
+      "type": "bear"
+    },
+    {
+      "amount": 615.34,
+      "from": 20400,
+      "to": 20499,
+      "type": "bear"
+    },
+    {
+      "amount": 588.54,
+      "from": 20500,
+      "to": 20599,
+      "type": "bear"
+    },
+    {
+      "amount": 404.42,
+      "from": 20600,
+      "to": 20699,
+      "type": "bear"
+    },
+    {
+      "amount": 155.5,
+      "from": 20700,
+      "to": 20799,
+      "type": "bear"
+    },
+    {
+      "amount": 140.58,
+      "from": 20800,
+      "to": 20899,
+      "type": "bear"
+    },
+    {
+      "amount": 84.36,
+      "from": 20900,
+      "to": 20999,
+      "type": "bear"
+    },
+    {
+      "amount": 112.11,
+      "from": 21000,
+      "to": 21099,
+      "type": "bear"
+    },
+    {
+      "amount": 413.58,
+      "from": 21100,
+      "to": 21199,
+      "type": "bear"
+    },
+    {
+      "amount": 257.1,
+      "from": 21200,
+      "to": 21299,
+      "type": "bear"
+    },
+    {
+      "amount": 75.46,
+      "from": 21300,
+      "to": 21399,
+      "type": "bear"
+    },
+    {
+      "amount": 111.32,
+      "from": 21400,
+      "to": 21499,
+      "type": "bear"
+    },
+    {
+      "amount": 165.35,
+      "from": 21500,
+      "to": 21599,
+      "type": "bear"
+    },
+    {
+      "amount": 125.34,
+      "from": 21600,
+      "to": 21699,
+      "type": "bear"
+    },
+    {
+      "amount": 56.5,
+      "from": 21700,
+      "to": 21799,
+      "type": "bear"
+    },
+    {
+      "amount": 26.98,
+      "from": 21800,
+      "to": 21899,
+      "type": "bear"
+    },
+    {
+      "amount": 39.72,
+      "from": 21900,
+      "to": 21999,
+      "type": "bear"
+    },
+    {
+      "amount": 145.18,
+      "from": 22000,
+      "to": 22099,
+      "type": "bear"
+    },
+    {
+      "amount": 120.64,
+      "from": 22100,
+      "to": 22199,
+      "type": "bear"
+    }
+  ],
+  "hsiLast": "20106.55",
+  "date": "2025-01-22"
+}

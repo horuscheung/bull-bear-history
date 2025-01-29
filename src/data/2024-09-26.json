@@ -1,0 +1,102 @@
+{
+  "date": "2024-09-26",
+  "hsiLast": 19129,
+  "steps": [
+    {
+      "from": 19600,
+      "to": 19699,
+      "type": "bear",
+      "amount": 648
+    },
+    {
+      "from": 19700,
+      "to": 19799,
+      "type": "bear",
+      "amount": 508
+    },
+    {
+      "from": 19800,
+      "to": 19899,
+      "type": "bear",
+      "amount": 879
+    },
+    {
+      "from": 19900,
+      "to": 19999,
+      "type": "bear",
+      "amount": 689
+    },
+    {
+      "from": 20000,
+      "to": 20099,
+      "type": "bear",
+      "amount": 722
+    },
+    {
+      "from": 20100,
+      "to": 20199,
+      "type": "bear",
+      "amount": 173
+    },
+    {
+      "from": 20200,
+      "to": 20299,
+      "type": "bear",
+      "amount": 256
+    },
+    {
+      "from": 20300,
+      "to": 20399,
+      "type": "bear",
+      "amount": 100
+    },
+    {
+      "from": 18200,
+      "to": 18299,
+      "type": "bull",
+      "amount": 1053
+    },
+    {
+      "from": 18100,
+      "to": 18199,
+      "type": "bull",
+      "amount": 22
+    },
+    {
+      "from": 18000,
+      "to": 18099,
+      "type": "bull",
+      "amount": 973
+    },
+    {
+      "from": 17900,
+      "to": 17999,
+      "type": "bull",
+      "amount": 244
+    },
+    {
+      "from": 17800,
+      "to": 17899,
+      "type": "bull",
+      "amount": 73
+    },
+    {
+      "from": 17700,
+      "to": 17799,
+      "type": "bull",
+      "amount": 4
+    },
+    {
+      "from": 17600,
+      "to": 17699,
+      "type": "bull",
+      "amount": 285
+    },
+    {
+      "from": 17500,
+      "to": 17599,
+      "type": "bull",
+      "amount": 68
+    }
+  ]
+}
